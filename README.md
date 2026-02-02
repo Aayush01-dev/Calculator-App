@@ -1,2 +1,17 @@
-# Calculator-App
-A clean and responsive calculator built using HTML, CSS, and JavaScript with basic arithmetic operations and error handling.
+# Calculator App 🧮
+
+A simple and modern calculator built using HTML, CSS, and JavaScript.
+
+## Features
+- Basic arithmetic operations
+- Clean and responsive UI
+- Keyboard-free button interaction
+- Error handling for invalid inputs
+
+## Tech Stack
+- HTML
+- CSS
+- JavaScript
+
+## Author
+Ayush Acharya
